@@ -1,0 +1,19 @@
+#search{
+	background-color:  #f0f5f5;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px 5px 5px 5px;
+  border: 1px grey;
+  position: center;
+
+}
+
+body {
+  font-size: 100%;
+  background: #f9f9fb;
+}
